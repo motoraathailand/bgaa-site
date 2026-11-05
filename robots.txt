@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://motoraathailand.github.io/bgaa-site/sitemap.xml
