@@ -11,7 +11,7 @@ Static GitHub Pages site for **BGAA** (`com.motoraa.bgaa`). Published from `main
 
 Five languages (th / en / ko / zh / hi). Choice order: `?lang=` → saved choice (`localStorage` key `lang`, shared with the privacy and delete pages) → device language → English. The HTML is Thai-first.
 
-The intro and join pages share a dark night-café / night-drive look (ink ground, teal glow, vinyl and EQ). Android Auto is an original illustrated car media screen, labeled as an illustration. The header and hero use `img/icon.svg` with a compact BGAA word set in type, the same size in both places. `img/wordmark.svg` is an unused drawing and is not shown on the page. The phone frames on the intro are CSS renderings of the closed-test app, not Play Store image files.
+The intro and join pages share a dark night-café / night-drive look (ink ground, teal glow, vinyl and EQ). Android Auto is an original illustrated car media screen, labeled as an illustration. The header, hero, and join mark use the official app icon (`img/bgaa-icon-512.png`, with `img/bgaa-icon-1024.png` for Apple touch) at header size, next to compact BGAA type. The phone frames on the intro are CSS renderings of the closed-test app, not Play Store image files.
 
 Closed testing is not a public Play launch. Testers use the same Gmail for three steps: the shared group https://groups.google.com/g/motoraa-testers (`motoraa-testers@googlegroups.com`), the opt-in https://play.google.com/apps/testing/com.motoraa.bgaa , then install from https://play.google.com/store/apps/details?id=com.motoraa.bgaa . The QR on the join page encodes the public join URL.
 
