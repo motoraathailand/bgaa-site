@@ -76,9 +76,8 @@ h2{font-size:clamp(28px,4.6vw,42px)}
 
 .hero{position:relative;padding:28px 0 36px;overflow:hidden}
 .hero-in{position:relative;display:grid;gap:28px;align-items:center}
-.hero h1{display:flex;flex-direction:column;align-items:flex-start;gap:12px;margin-top:14px}
-.wordmark{width:min(100%,560px);height:auto;filter:drop-shadow(0 16px 28px rgba(15,181,174,.22))}
-.punch{font-size:clamp(30px,5.4vw,48px);line-height:1.25;max-width:16ch}
+.hero .logo{margin-top:12px}
+.punch{margin-top:4px;font-size:clamp(30px,5.4vw,48px);line-height:1.25;max-width:16ch}
 html[data-lang=th] .punch,html[data-lang=hi] .punch{line-height:1.4}
 .cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px;align-items:center}
 .note{margin-top:12px;color:var(--muted);font-size:15px}
@@ -262,7 +261,6 @@ details[open] summary::after{transform:rotate(225deg);margin-top:4px}
 details p{padding:0 16px 14px;color:var(--muted)}
 
 .final{padding:48px 0 20px;text-align:center}
-.final .wordmark{margin:0 auto 12px;width:min(100%,280px)}
 .final .cta,.final .hubrow,.hubrow{justify-content:center}
 .final p{margin:10px auto 0;color:var(--muted);max-width:38rem}
 .hubrow{display:flex;justify-content:center;margin-top:16px}
@@ -311,8 +309,8 @@ html.pl body{opacity:0;animation:plshow .01s linear 1.4s forwards}
   background:repeating-radial-gradient(circle at 50% 50%, rgba(255,255,255,.05) 0 2px, transparent 3px 7px);
   -webkit-mask-image:radial-gradient(circle, #000 40%, transparent 72%);mask-image:radial-gradient(circle, #000 40%, transparent 72%)}
 .jhero .wrap{position:relative;z-index:1;max-width:820px}
-.join-mark{width:min(100%,240px);margin-bottom:8px}
-.jhero h1{font-size:clamp(32px,6vw,46px);line-height:1.25}
+.jhero .logo{margin-top:10px}
+.jhero h1{margin-top:4px;font-size:clamp(32px,6vw,46px);line-height:1.25}
 .jsub{margin-top:8px;color:var(--muted)}
 .gmail{display:flex;gap:10px;align-items:flex-start;margin-top:16px;padding:12px 14px;border-radius:16px;background:#241c12;border:1.5px solid #a07b3c;color:#f6ecd4}
 .gmail svg{width:28px;height:28px;flex:none;fill:none;stroke:var(--lamp);stroke-width:1.8}
