@@ -246,9 +246,6 @@ html[data-lang=th] .punch,html[data-lang=hi] .punch{line-height:1.4}
 .sample b{display:block}
 .sample span{color:var(--muted);font-size:13px}
 .pill-lic{display:inline-flex;margin-top:8px;padding:4px 10px;border-radius:999px;background:rgba(15,181,174,.15);color:var(--glow);font-size:12px;font-weight:700}
-.zero-mark{display:flex;align-items:baseline;gap:10px;margin-bottom:6px}
-.zero-mark b{font-size:64px;line-height:.85;color:var(--acc);text-shadow:0 0 24px rgba(15,181,174,.45)}
-.zero-mark s{color:var(--muted);font-size:18px;letter-spacing:.14em}
 
 .faq{padding:28px 0 8px}
 .faqs{display:grid;gap:8px;margin-top:16px}
@@ -272,7 +269,7 @@ details p{padding:0 16px 14px;color:var(--muted)}
   .hero{padding:48px 0 28px}
   .hero-in{grid-template-columns:1.05fr .95fr;gap:28px}
   .rooms{grid-template-columns:1fr 1fr}
-  .rail-grid{grid-template-columns:1fr 1fr 1fr}
+  .rail-grid{grid-template-columns:1fr 1fr}
   .span{grid-column:1 / -1;grid-template-columns:1.1fr .9fr}
   .shot-row{grid-auto-flow:unset;grid-template-columns:repeat(3,1fr);overflow:visible}
   .shot-row figure{scroll-snap-align:none}
