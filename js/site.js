@@ -44,7 +44,7 @@
   }
   function setShots(l) {
     $$('[data-shot]').forEach(function (img) {
-      var src = 'img/' + l + '-' + img.getAttribute('data-shot') + '.webp?v=5aeab58005';
+      var src = 'img/' + l + '-' + img.getAttribute('data-shot') + '.webp?v=cc0a4fd388';
       if (img.getAttribute('src') !== src) img.src = src;
     });
   }
