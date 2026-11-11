@@ -109,8 +109,6 @@ html[data-lang=th] .hero .sub,html[data-lang=hi] .hero .sub{line-height:1.45;max
 .seg .on{background:var(--acc);color:#041614}
 .seg svg{width:12px;height:12px;stroke:currentColor;fill:none;stroke-width:2}
 .ui-sub{padding:8px 14px 0;color:#8b9694;font-size:11px}
-.search{margin:8px 12px;display:flex;align-items:center;gap:6px;min-height:36px;padding:0 10px;border-radius:999px;background:#1a1e24;color:#8b9694;font-size:11px}
-.search svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2;flex:none}
 .promo{margin:4px 12px 0;padding:12px;border-radius:18px;background:#161a20;border:1px solid rgba(255,255,255,.05)}
 .cam{width:36px;height:36px;border-radius:12px;background:var(--acc);display:grid;place-items:center;margin-bottom:8px}
 .cam svg{width:18px;height:18px;stroke:#041614;fill:none;stroke-width:2}
