@@ -438,3 +438,6 @@ html[data-lang=th] .cta2 .btn span,html[data-lang=hi] .cta2 .btn span{white-spac
 .ft-tm{font-size:14px!important;max-width:640px}
 
 body[data-page=join]{padding-bottom:calc(28px + env(safe-area-inset-bottom))}
+
+.free-test{margin-top:16px;color:var(--lamp);font-weight:650;font-size:clamp(16px,2.2vw,19px);letter-spacing:.01em;max-width:40rem}
+.final .free-test{margin:4px auto 22px;max-width:38rem}
