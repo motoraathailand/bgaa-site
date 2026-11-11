@@ -279,12 +279,6 @@ retryH: "ถ้าไม่สำเร็จ", retryD: "เริ่มให�
 shareH: "ชวนคนอื่นมาลอง", share: "แชร์ลิงก์", shareTitle: "ร่วมทดสอบ BGAA", shareText: "ร่วมทดสอบ BGAA แบบปิดใน 3 ขั้นตอน",
 copied: "คัดลอกลิงก์แล้ว", copyFail: "คัดลอกไม่ได้ ให้คัดลอกที่อยู่จากแถบเบราว์เซอร์",
 qrH: "เปิดบนมือถือ", qrD: "เปิดหน้านี้อยู่บนคอมพิวเตอร์ใช่ไหม สแกน QR ด้วยมือถือ Android ได้เลย", qrAlt: "QR code ของหน้าเข้าร่วมทดสอบ BGAA",
-faqH: "คำถามที่พบบ่อย",
-q1: "ใช้บัญชี Google ไหน", a1: "ใช้ Gmail เดียวกันทั้งเข้ากลุ่ม เป็นผู้ทดสอบ และ Google Play บนมือถือ Android",
-q2: "ใช้กับมือถือรุ่นไหน", a2: "มือถือ Android ที่มี Google Play ยังไม่มีแอปสำหรับ iPhone",
-q4: "ทดสอบได้ประเทศไหนบ้าง", a4: "ทุกประเทศ ไม่ได้จำกัดแค่ประเทศไทย",
-q5: "ต้องเก็บแอปไว้นานแค่ไหน", a5: "ช่วยเก็บ BGAA ไว้ 14 วัน แล้วใช้งานตามปกติ",
-q6: "พบปัญหาหรืออยากบอกความเห็น", a6: "ส่งอีเมลถึง motoraathailand@gmail.com",
 privacy: "นโยบายส่วนตัว", del: "ลบข้อมูล", contact: "ติดต่อ", made: "BGAA · Pornnarai Tananchai"
 },
 en: {
@@ -304,12 +298,6 @@ retryH: "If it does not work", retryD: "Start again from step 1. If Install is n
 shareH: "Invite others to try it", share: "Share link", shareTitle: "Join the BGAA test", shareText: "Join the BGAA closed test in 3 steps.",
 copied: "Link copied", copyFail: "Could not copy. Copy the address from the browser bar.",
 qrH: "Open on your phone", qrD: "Reading this on a computer? Scan the QR code with your Android phone.", qrAlt: "QR code for the BGAA tester join page",
-faqH: "Questions",
-q1: "Which Google account?", a1: "Use the same Gmail for the group, for Become a tester, and for Google Play on your Android phone.",
-q2: "Which phones?", a2: "Android phones with Google Play. There is no iPhone app.",
-q4: "Which countries?", a4: "Every country. The test is not limited to Thailand.",
-q5: "How long should I keep it?", a5: "Please keep BGAA installed for 14 days and use it as you normally would.",
-q6: "Found a problem?", a6: "Email motoraathailand@gmail.com.",
 privacy: "Privacy", del: "Delete data", contact: "Contact", made: "BGAA · Pornnarai Tananchai"
 },
 ko: {
@@ -329,12 +317,6 @@ retryH: "안 되면", retryD: "1단계부터 다시 하세요. 설치 버튼이 
 shareH: "다른 사람도 초대", share: "링크 공유", shareTitle: "BGAA 테스트 참여", shareText: "BGAA 비공개 테스트를 3단계로 참여하세요.",
 copied: "링크를 복사했어요", copyFail: "복사하지 못했어요. 브라우저 주소창에서 복사하세요.",
 qrH: "휴대폰에서 열기", qrD: "컴퓨터로 보고 있나요? Android 휴대폰으로 QR 코드를 스캔하세요.", qrAlt: "BGAA 테스터 참여 페이지의 QR 코드",
-faqH: "질문",
-q1: "어떤 Google 계정인가요?", a1: "그룹 가입, 테스터 되기, Android 휴대폰의 Google Play에 같은 Gmail을 쓰세요.",
-q2: "어떤 휴대폰인가요?", a2: "Google Play가 있는 Android 휴대폰이에요. iPhone 앱은 없어요.",
-q4: "어느 나라에서 테스트하나요?", a4: "모든 나라예요. 태국만으로 제한되지 않아요.",
-q5: "앱을 얼마나 두나요?", a5: "BGAA를 14일 동안 설치해 두고 평소처럼 사용해 주세요.",
-q6: "문제가 있거나 의견이 있나요?", a6: "motoraathailand@gmail.com 으로 이메일을 보내 주세요.",
 privacy: "개인정보", del: "데이터 삭제", contact: "문의", made: "BGAA · Pornnarai Tananchai"
 },
 zh: {
@@ -354,12 +336,6 @@ retryH: "如果没有成功", retryD: "请从第 1 步重新开始。如果还�
 shareH: "邀请别人来试", share: "分享链接", shareTitle: "参加 BGAA 测试", shareText: "用 3 步参加 BGAA 封闭测试。",
 copied: "已复制链接", copyFail: "无法复制。请从浏览器地址栏复制。",
 qrH: "在手机上打开", qrD: "正在电脑上看？用 Android 手机扫描二维码。", qrAlt: "BGAA 测试人员加入页的二维码",
-faqH: "常见问题",
-q1: "用哪个 Google 账号？", a1: "加入小组、成为测试人员，以及 Android 手机上的 Google Play，都使用同一个 Gmail。",
-q2: "哪些手机可以？", a2: "带 Google Play 的 Android 手机。没有 iPhone 应用。",
-q4: "哪些国家可以测试？", a4: "所有国家。测试不限于泰国。",
-q5: "应用要保留多久？", a5: "请把 BGAA 安装保留 14 天，并照常使用。",
-q6: "遇到问题或想反馈？", a6: "请发邮件至 motoraathailand@gmail.com。",
 privacy: "隐私政策", del: "删除数据", contact: "联系", made: "BGAA · Pornnarai Tananchai"
 },
 hi: {
@@ -379,12 +355,6 @@ retryH: "यदि काम न करे", retryD: "चरण 1 से फि�
 shareH: "दूसरों को आमंत्रित करें", share: "लिंक साझा करें", shareTitle: "BGAA टेस्ट में जुड़ें", shareText: "3 चरणों में BGAA बंद परीक्षण से जुड़ें।",
 copied: "लिंक कॉपी हो गया", copyFail: "कॉपी नहीं हो सका। ब्राउज़र पट्टी से पता कॉपी करें।",
 qrH: "अपने फ़ोन पर खोलें", qrD: "कंप्यूटर पर देख रहे हैं? अपने Android फ़ोन से QR कोड स्कैन करें।", qrAlt: "BGAA परीक्षक जुड़ने के पेज का QR कोड",
-faqH: "प्रश्न",
-q1: "कौन सा Google खाता?", a1: "समूह, Become a tester, और Android फ़ोन के Google Play के लिए वही Gmail उपयोग करें।",
-q2: "कौन से फ़ोन?", a2: "Google Play वाले Android फ़ोन। iPhone ऐप नहीं है।",
-q4: "कौन से देश?", a4: "सभी देश। परीक्षण केवल थाईलैंड तक सीमित नहीं है।",
-q5: "ऐप कितने दिन रखें?", a5: "कृपया BGAA 14 दिन इंस्टॉल रखें और सामान्य रूप से उपयोग करें।",
-q6: "समस्या या सुझाव?", a6: "motoraathailand@gmail.com पर ईमेल करें।",
 privacy: "गोपनीयता", del: "डेटा हटाएँ", contact: "संपर्क", made: "BGAA · Pornnarai Tananchai"
 }
 }
