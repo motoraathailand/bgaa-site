@@ -160,6 +160,16 @@ html[data-lang=th] .hero .sub,html[data-lang=hi] .hero .sub{line-height:1.45;max
 .xf-card span{color:var(--muted);font-size:12px;font-weight:600}
 .xf-card.in{background:#14211f;border-color:rgba(15,181,174,.45)}
 
+
+.rights{padding:8px 0 20px}
+.rights .wrap{max-width:800px}
+.rights-card{padding:22px 22px 20px;border-radius:26px;border:1px solid rgba(15,181,174,.38);background:
+  radial-gradient(520px 200px at 0% 0%, rgba(15,181,174,.18), transparent 70%),
+  #0e1418}
+.rights-card .kicker{margin:0}
+.rights-card h2{margin-top:8px}
+.rights-card .lead{margin-top:10px}
+
 .auto{position:relative;margin-top:36px;padding:48px 0;overflow:hidden;
   background:
     radial-gradient(700px 280px at 80% 20%, rgba(15,181,174,.16), transparent 60%),
