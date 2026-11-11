@@ -8,6 +8,7 @@ Static GitHub Pages site for **BGAA** (`com.motoraa.bgaa`). Published from `main
 | Closed-tester join | https://motoraathailand.github.io/bgaa-site/join.html |
 | Privacy policy | https://motoraathailand.github.io/bgaa-site/privacy/ |
 | Delete data and account | https://motoraathailand.github.io/bgaa-site/delete-account/ |
+| Support | https://motoraathailand.github.io/bgaa-site/support/ |
 
 Five languages (th / en / ko / zh / hi). Choice order: `?lang=` → saved choice (`localStorage` key `lang`, shared with the privacy and delete pages) → device language → English. The HTML is Thai-first.
 
