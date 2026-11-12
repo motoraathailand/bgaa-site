@@ -34,11 +34,8 @@
     return href + (href.indexOf('?') >= 0 ? '&' : '?') + 'lang=' + code + hash;
   }
   function setBadges(l) {
-    $$('[data-badge]').forEach(function (img) {
-      var k = img.getAttribute('data-badge');
-      var src = k === 'gp'
-        ? 'img/badges/gp-' + l + '.png'
-        : 'img/badges/as-' + (l === 'hi' ? 'en' : l) + '.svg';
+    $$('[data-badge="gp"]').forEach(function (img) {
+      var src = 'img/badges/gp-' + l + '.png';
       if (img.getAttribute('src') !== src) img.src = src;
     });
   }

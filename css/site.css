@@ -374,8 +374,9 @@ html.pl body{opacity:0;animation:plshow .01s linear 1.4s forwards}
 
 .sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 
-/* Official store badges: 565:168 box, equal chips one line (nammanthuk 7af1698 / dd44165). Dark theme only. */
+/* Official store badges: 565:168 box. Single Play badge with a status chip underneath. Dark theme only. */
 .stores{display:grid;grid-template-columns:repeat(2,minmax(0,210px));gap:12px 14px;align-items:start;width:100%;max-width:434px}
+.stores.one{grid-template-columns:minmax(0,210px);max-width:210px}
 .stores.center,.final .stores{justify-content:center;margin:0 auto}
 .store{display:flex;flex-direction:column;align-items:center;gap:10px;min-width:0}
 .badge{display:block;width:100%;position:relative;padding:0;border-radius:12px;transition:transform .2s var(--ease)}
@@ -413,6 +414,8 @@ html[data-lang=th] .cta2 .btn span,html[data-lang=hi] .cta2 .btn span{white-spac
 .dlbar{position:fixed;left:0;right:0;bottom:0;z-index:45;padding:10px max(12px,env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));background:rgba(7,9,13,.96);-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px);border-top:1px solid var(--line);box-shadow:0 -10px 28px -16px rgba(0,0,0,.6);-webkit-transform:translateY(110%);transform:translateY(110%);transition:transform .4s var(--ease)}
 .dlbar.show{-webkit-transform:none;transform:none}
 .dlbar-in{display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;gap:10px;max-width:440px;margin:0 auto}
+.dlbar-in.one{max-width:210px;justify-content:center}
+.dlbar-in.one .dlb{flex:1 1 auto;width:auto}
 .dlb{position:relative;display:block;flex:1 1 0;width:0;min-width:0;margin:0;padding:0;border-radius:10px;text-decoration:none;-webkit-tap-highlight-color:transparent}
 .dlb::before{content:"";display:block;padding-top:calc(168 / 565 * 100%)}
 .dlb img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:contain;display:block}

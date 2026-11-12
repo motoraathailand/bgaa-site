@@ -11,10 +11,8 @@ intro: {
     lead: "เพลงต้น⁠ฉบับของเราที่ทำขึ้นสำหรับ BGAA มีเพลงใหม่เพิ่มอยู่เรื่อย ๆ เข้า⁠สู่⁠ระบบด้วย Google เลือกเพลงจากรูปร้านหรือบรรยากาศ ใช้เพลย์ลิสต์และตารางเวลา บันทึกฟังออฟไลน์ในแอป สลับเพลงด้วยครอสเฟด และเปิดจาก Android Auto ได้",
     freeTest: "ใช้งานฟรีในช่วงทดสอบ",
     gpCap: "ร่วม⁠ทดสอบ",
-    asCap: "เร็ว ๆ นี้",
     gpAria: "Google Play — ร่วม⁠ทดสอบ",
-    asAria: "App Store — เร็ว ๆ นี้ (ยังไม่เปิด)",
-    note: "Android: ร่วม⁠ทดสอบบน Google Play · iPhone: เร็ว ๆ นี้",
+    note: "Android: ร่วม⁠ทดสอบบน Google Play",
     heroCap: "หน้าแอปบนโทรศัพท์จากแอปทดสอบแบบปิด ไม่ใช่ภาพหน้าจอรถ",
     altHome: "หน้าแรก BGAA เพลงต้น⁠ฉบับ",
     altList: "เพลย์ลิสต์ในแอป BGAA",
@@ -78,7 +76,7 @@ intro: {
     q4: "ต้องมีคีย์ AI ไหม",
     a4: "ไม่ต้อง เปิดเพลงได้โดยไม่มีคีย์ การแนะนำจากรูปเป็นทางเลือก และใช้คีย์ที่คุณใส่เอง (Google Gemini, Groq หรือ OpenRouter)",
     q5: "ใช้ได้ที่ไหนบ้าง",
-    a5: "โทรศัพท์ Android ในทุกประเทศ การทดสอบไม่ได้จำกัดแค่ประเทศไทย ยังไม่มีแอปสำหรับ iPhone",
+    a5: "โทรศัพท์ Android ในทุกประเทศ การทดสอบไม่ได้จำกัดแค่ประเทศไทย",
     q6: "ลบข้อมูลอย่างไร",
     a6: "ในแอป: ฉัน → ลบข้อมูลทั้งหมดในโทรศัพท์นี้ แล้วออกจากระบบ จะถอนสิทธิ์บัญชี Google ที่ myaccount.google.com/permissions ก็ได้",
     q7: "Android Auto ใช้ได้ไหม",
@@ -94,7 +92,7 @@ intro: {
     ftDel: "ขอลบบัญชีและข้อมูล",
     ftOp: "ผู้ให้บริการ",
     ftSrc: "เพลงทั้งหมดเป็นเพลงต้น⁠ฉบับของเรา ที่ทำขึ้นสำหรับ BGAA มีเพลงใหม่เพิ่มอยู่เรื่อย ๆ",
-    ftTm: "Google Play และ Android Auto เป็นเครื่องหมายการค้าของ Google LLC · Apple และ App Store เป็นเครื่องหมายการค้าของ Apple Inc.",
+    ftTm: "Google Play และ Android Auto เป็นเครื่องหมายการค้าของ Google LLC",
     totop: "กลับไปด้านบน"
   },
   en: {
@@ -108,10 +106,8 @@ intro: {
     lead: "Our own original songs, made for BGAA. New songs keep being added. Sign in with Google, pick music from a shop photo or a mood, use playlists and a schedule, save tracks for offline listening in the app, crossfade between songs, and play from Android Auto.",
     freeTest: "Free to use during the test period.",
     gpCap: "Join the test",
-    asCap: "Coming soon",
     gpAria: "Google Play — join the test",
-    asAria: "App Store — coming soon (not available yet)",
-    note: "Android: join the test on Google Play · iPhone: coming soon",
+    note: "Android: join the test on Google Play",
     heroCap: "The phone app from the closed test, not the car screen",
     altHome: "BGAA home, with original songs",
     altList: "Playlists in the BGAA app",
@@ -175,7 +171,7 @@ intro: {
     q4: "Do I need an AI key?",
     a4: "No. Music plays without one. Photo suggestions are optional and use a key you add yourself (Google Gemini, Groq or OpenRouter).",
     q5: "Where can I use it?",
-    a5: "On Android phones, in every country. The test is not limited to Thailand. There is no iPhone app yet.",
+    a5: "On Android phones, in every country. The test is not limited to Thailand.",
     q6: "How do I delete my data?",
     a6: "In the app: Me → Delete all data on this phone, then sign out. You can also remove the app’s Google access at myaccount.google.com/permissions.",
     q7: "Does Android Auto work?",
@@ -191,7 +187,7 @@ intro: {
     ftDel: "Delete account and data",
     ftOp: "Operator",
     ftSrc: "The music is our own original songs, made for BGAA. New songs keep being added.",
-    ftTm: "Google Play and Android Auto are trademarks of Google LLC · Apple and App Store are trademarks of Apple Inc.",
+    ftTm: "Google Play and Android Auto are trademarks of Google LLC",
     totop: "Back to top"
   },
   ko: {
@@ -205,10 +201,8 @@ intro: {
     lead: "BGAA를 위해 만든 오리지널 노래예요. 새 노래가 계속 추가돼요. Google로 로그인한 뒤, 가게 사진이나 분위기로 음악을 고르고, 재생목록과 스케줄을 쓰고, 앱 안에서 오프라인으로 저장해 듣고, 크로스페이드로 곡을 잇고, Android Auto로도 재생할 수 있어요.",
     freeTest: "테스트 기간 동안 무료로 이용할 수 있어요.",
     gpCap: "테스트 참여",
-    asCap: "곧 출시",
     gpAria: "Google Play — 테스트 참여",
-    asAria: "App Store — 곧 출시 (아직 준비 중)",
-    note: "Android: Google Play에서 테스트 참여 · iPhone: 곧 출시",
+    note: "Android: Google Play에서 테스트 참여",
     heroCap: "비공개 테스트 앱의 휴대폰 화면이에요. 차량 화면이 아니에요.",
     altHome: "BGAA 홈, 오리지널 노래",
     altList: "BGAA 앱의 재생목록",
@@ -272,7 +266,7 @@ intro: {
     q4: "AI 키가 필요한가요?",
     a4: "아니요. 키 없이도 음악은 재생돼요. 사진 제안은 선택이고, 직접 넣은 키를 써요 (Google Gemini, Groq 또는 OpenRouter).",
     q5: "어디서 쓸 수 있나요?",
-    a5: "모든 국가의 Android 휴대폰에서 쓸 수 있어요. 테스트는 태국만으로 제한되지 않아요. iPhone 앱은 아직 없어요.",
+    a5: "모든 국가의 Android 휴대폰에서 쓸 수 있어요. 테스트는 태국만으로 제한되지 않아요.",
     q6: "데이터는 어떻게 지우나요?",
     a6: "앱에서 나 → 이 휴대폰의 모든 데이터 삭제 후 로그아웃하세요. myaccount.google.com/permissions 에서 Google 접근 권한도 해제할 수 있어요.",
     q7: "Android Auto가 되나요?",
@@ -288,7 +282,7 @@ intro: {
     ftDel: "계정 및 데이터 삭제",
     ftOp: "제공자",
     ftSrc: "음악은 BGAA를 위해 만든 우리 오리지널 노래예요. 새 노래가 계속 추가돼요.",
-    ftTm: "Google Play 및 Android Auto는 Google LLC의 상표 · Apple 및 App Store는 Apple Inc.의 상표",
+    ftTm: "Google Play 및 Android Auto는 Google LLC의 상표",
     totop: "맨 위로"
   },
   zh: {
@@ -302,10 +296,8 @@ intro: {
     lead: "这些是我们为 BGAA 创作的原创歌曲。新歌会不断加入。使用 Google 登录后，可通过店铺照片或氛围选歌，使用播放列表和日程，在应用内离线保存收听，曲目交叉淡化，也可通过 Android Auto 播放。",
     freeTest: "测试期间可免费使用。",
     gpCap: "参加测试",
-    asCap: "即将推出",
     gpAria: "Google Play — 参加测试",
-    asAria: "App Store — 即将推出（尚未上线）",
-    note: "Android：在 Google Play 参加测试 · iPhone：即将推出",
+    note: "Android：在 Google Play 参加测试",
     heroCap: "来自闭封测试应用的手机界面，不是车机画面。",
     altHome: "BGAA 首页，原创歌曲",
     altList: "BGAA 应用中的播放列表",
@@ -369,7 +361,7 @@ intro: {
     q4: "需要 AI 密钥吗？",
     a4: "不需要。没有密钥也能播放音乐。拍照建议是可选的，使用你自己添加的密钥（Google Gemini、Groq 或 OpenRouter）。",
     q5: "可以在哪里使用？",
-    a5: "所有国家的 Android 手机都可以。测试不限于泰国。尚无 iPhone 应用。",
+    a5: "所有国家的 Android 手机都可以。测试不限于泰国。",
     q6: "如何删除数据？",
     a6: "在应用中：我 → 删除这部手机上的所有数据，然后退出登录。也可以在 myaccount.google.com/permissions 撤销应用的 Google 访问权限。",
     q7: "支持 Android Auto 吗？",
@@ -385,7 +377,7 @@ intro: {
     ftDel: "删除账号和数据",
     ftOp: "提供者",
     ftSrc: "音乐均为我们为 BGAA 创作的原创歌曲。新歌会不断加入。",
-    ftTm: "Google Play 和 Android Auto 是 Google LLC 的商标 · Apple 和 App Store 是 Apple Inc. 的商标",
+    ftTm: "Google Play 和 Android Auto 是 Google LLC 的商标",
     totop: "回到顶部"
   },
   hi: {
@@ -399,10 +391,8 @@ intro: {
     lead: "BGAA के लिए बनाए गए हमारे अपने मूल गाने। नए गाने जुड़ते रहते हैं। Google से साइन-इन करें, दुकान की फ़ोटो या मूड से संगीत चुनें, प्लेलिस्ट और शेड्यूल इस्तेमाल करें, ऐप में ट्रैक ऑफ़लाइन सहेजकर सुनें, गानों के बीच क्रॉसफ़ेड करें, और Android Auto से चलाएँ।",
     freeTest: "परीक्षण अवधि के दौरान मुफ़्त में इस्तेमाल कर सकते हैं।",
     gpCap: "टेस्ट में जुड़ें",
-    asCap: "जल्द आ रहा है",
     gpAria: "Google Play — टेस्ट में जुड़ें",
-    asAria: "App Store — जल्द आ रहा है (अभी उपलब्ध नहीं)",
-    note: "Android: Google Play पर टेस्ट में शामिल हों · iPhone: जल्द आ रहा है",
+    note: "Android: Google Play पर टेस्ट में शामिल हों",
     heroCap: "बंद परीक्षण ऐप की फ़ोन स्क्रीन है, कार की स्क्रीन नहीं।",
     altHome: "BGAA होम, मूल गाने",
     altList: "BGAA ऐप में प्लेलिस्ट",
@@ -466,7 +456,7 @@ intro: {
     q4: "क्या AI कुंजी चाहिए?",
     a4: "नहीं। बिना कुंजी संगीत चलता है। फ़ोटो सुझाव वैकल्पिक हैं और आपकी जोड़ी हुई कुंजी का उपयोग करते हैं (Google Gemini, Groq या OpenRouter)।",
     q5: "कहाँ उपयोग कर सकते हैं?",
-    a5: "सभी देशों के Android फ़ोन पर। परीक्षण केवल थाईलैंड तक सीमित नहीं है। iPhone ऐप अभी नहीं है।",
+    a5: "सभी देशों के Android फ़ोन पर। परीक्षण केवल थाईलैंड तक सीमित नहीं है।",
     q6: "डेटा कैसे हटाएँ?",
     a6: "ऐप में: मैं → इस फ़ोन का सारा डेटा हटाएँ, फिर साइन आउट करें। myaccount.google.com/permissions पर ऐप की Google पहुँच भी हटाई जा सकती है।",
     q7: "क्या Android Auto चलता है?",
@@ -482,7 +472,7 @@ intro: {
     ftDel: "खाता और डेटा हटाएँ",
     ftOp: "प्रदाता",
     ftSrc: "संगीत हमारे अपने मूल गाने हैं, जो BGAA के लिए बनाए गए हैं। नए गाने जुड़ते रहते हैं।",
-    ftTm: "Google Play और Android Auto, Google LLC के ट्रेडमार्क हैं · Apple और App Store, Apple Inc. के ट्रेडमार्क हैं",
+    ftTm: "Google Play और Android Auto, Google LLC के ट्रेडमार्क हैं",
     totop: "ऊपर जाएँ"
   }
 },
@@ -538,7 +528,7 @@ join: {
     ftDel: "ขอลบบัญชีและข้อมูล",
     ftOp: "ผู้ให้บริการ",
     ftSrc: "เพลงทั้งหมดเป็นเพลงต้น⁠ฉบับของเรา ที่ทำขึ้นสำหรับ BGAA มีเพลงใหม่เพิ่มอยู่เรื่อย ๆ",
-    ftTm: "Google Play และ Android Auto เป็นเครื่องหมายการค้าของ Google LLC · Apple และ App Store เป็นเครื่องหมายการค้าของ Apple Inc."
+    ftTm: "Google Play และ Android Auto เป็นเครื่องหมายการค้าของ Google LLC"
   },
   en: {
     title: "Join the BGAA closed test in 3 steps",
@@ -591,7 +581,7 @@ join: {
     ftDel: "Delete account and data",
     ftOp: "Operator",
     ftSrc: "The music is our own original songs, made for BGAA. New songs keep being added.",
-    ftTm: "Google Play and Android Auto are trademarks of Google LLC · Apple and App Store are trademarks of Apple Inc."
+    ftTm: "Google Play and Android Auto are trademarks of Google LLC"
   },
   ko: {
     title: "BGAA 비공개 테스트, 3단계로 참여",
@@ -644,7 +634,7 @@ join: {
     ftDel: "계정 및 데이터 삭제",
     ftOp: "제공자",
     ftSrc: "음악은 BGAA를 위해 만든 우리 오리지널 노래예요. 새 노래가 계속 추가돼요.",
-    ftTm: "Google Play 및 Android Auto는 Google LLC의 상표 · Apple 및 App Store는 Apple Inc.의 상표"
+    ftTm: "Google Play 및 Android Auto는 Google LLC의 상표"
   },
   zh: {
     title: "用 3 步参加 BGAA 封闭测试",
@@ -697,7 +687,7 @@ join: {
     ftDel: "删除账号和数据",
     ftOp: "提供者",
     ftSrc: "音乐均为我们为 BGAA 创作的原创歌曲。新歌会不断加入。",
-    ftTm: "Google Play 和 Android Auto 是 Google LLC 的商标 · Apple 和 App Store 是 Apple Inc. 的商标"
+    ftTm: "Google Play 和 Android Auto 是 Google LLC 的商标"
   },
   hi: {
     title: "3 चरणों में BGAA बंद परीक्षण से जुड़ें",
@@ -750,7 +740,7 @@ join: {
     ftDel: "खाता और डेटा हटाएँ",
     ftOp: "प्रदाता",
     ftSrc: "संगीत हमारे अपने मूल गाने हैं, जो BGAA के लिए बनाए गए हैं। नए गाने जुड़ते रहते हैं।",
-    ftTm: "Google Play और Android Auto, Google LLC के ट्रेडमार्क हैं · Apple और App Store, Apple Inc. के ट्रेडमार्क हैं"
+    ftTm: "Google Play और Android Auto, Google LLC के ट्रेडमार्क हैं"
   }
 }
 };
